@@ -158,12 +158,12 @@
 	}
 
 	nav a:hover {
-		background-color: #ed5565;
+		background-color: #75e454;
 		color: #fff;
 	}
 
 	nav a.active {
-		color: #ed5565;
+		color: #75e454;
 	}
 
 	nav a.active:hover {
@@ -254,11 +254,11 @@
 	}
 	
 	.lj-logo img {
-		width: 150px;
-		height: 40px;
+		/*width: 150px;*/
+		height: 235px;
 		display: inline-block;
-		margin-bottom: 50px;
-	  vertical-align: bottom;
+		/*margin-bottom: 50px;*/
+		vertical-align: bottom;
 	}
 
 
@@ -297,7 +297,7 @@
 	}
 
 	.lj-socials li a:hover {
-		background-color: #ed5565;
+		background-color: #75e454;
 		color: #fff;
 	}
 
@@ -342,7 +342,7 @@
   }
   
   #home .lj-title span {
-    color: #ed5565;
+    color: #75e454;
   }
 
   #home .lj-title-paragraph {
@@ -604,7 +604,7 @@
   }
 
   .lj-progress .filler {
-  	background: #ed5565;
+  	background: #75e454;
   	display: block;
   	height: 5px;
   }
